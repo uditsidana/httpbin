@@ -1,4 +1,4 @@
-# Test httpbin(1): HTTP Request & Response Service
+# Testhttpbin(1): HTTP Request & Response Service
 
 
 A [Kenneth Reitz](http://kennethreitz.org/bitcoin) Project.
